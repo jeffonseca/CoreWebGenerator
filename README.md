@@ -1,6 +1,6 @@
 # CoreWebGenerator
 Core web generator in real time with image processing
 
-[Descripcion - es](descripcion.md)
+##[Resources](resources.md)
 
-[Description - en]()
+###[Descripcion - es](docs/descripcion.md) | [Description - en](docs/description.md)
